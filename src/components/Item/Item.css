@@ -4,7 +4,7 @@
 .item.p{
     margin: 6px 0px;
 }
-.item-prices{
+.items-prices{
     display: flex;
     gap: 20px;
 }
